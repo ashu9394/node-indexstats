@@ -1,0 +1,23 @@
+{
+  "name": "indexstats",
+  "version": "1.0.0",
+  "description": "a simple node code for getting mongo indexes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashu9394/node-indexstats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashu9394/node-indexstats/issues"
+  },
+  "homepage": "https://github.com/ashu9394/node-indexstats#readme",
+  "dependencies": {
+    "lodash": "4.17.21",
+    "mongodb": "3.6.6"
+  }
+}
