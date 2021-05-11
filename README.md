@@ -2,7 +2,7 @@
 
 To run this project 
 1. Do npm install 
-2. Change the connection string to your atlas cluster replicasets in the `urls` array  
+2. Change the connection string to your atlas cluster replicasets in the `urls` array also , edit the readpreference to the correct node for primary and secondary
 3. To run use `node index.js`
 4. The output will be generated as an output.json file in the same directory 
 
